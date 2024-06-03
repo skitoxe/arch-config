@@ -1,6 +1,6 @@
-git clone 
+`git clone https://github.com/skitoxe/Arch-config.git`
 
-cd awesome
+cd Arch-config
 
 read awml script
 
