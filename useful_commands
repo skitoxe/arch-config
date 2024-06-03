@@ -1,0 +1,2 @@
+#Curla output av ett kommande till paste.rs
+cat /etc/os-release | curl --data-binary @- https://paste.rs
