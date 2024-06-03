@@ -1,11 +1,8 @@
-`git clone https://github.com/skitoxe/Arch-config.git`
+- `git clone https://github.com/skitoxe/Arch-config.git`
 
-cd Arch-config
+ - `cd Arch-config`
 
-read awml script
-
-please remove the other de/wm if using one after installing awesome
-
-remove any packages you don't want in awmlpkgs.txt and ywmlpkgs.txt then ./awml.sh
-
-reboot
+- Read arch_kickstarter.sh script
+- Remove any packages you don't want in pacman-pkglist.txt and yay-pkglist.txt.
+- Run script: `./arch_kickstarter.sh`
+- Reboot
