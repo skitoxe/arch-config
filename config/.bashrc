@@ -18,8 +18,15 @@ export LC_ALL=en_US.UTF-8
 eval "$(starship init bash)"
 
 #Mina functions
+
 #Function för att curla cheat.sh
 function cheat() {
 curl cheat.sh/$1
 }
 export -f cheat
+
+#Function för paste.rs
+function pasters() {
+local file=${1:-/dev/stdin}
+curl --data-binary @${file} https://paste.rs
+}
