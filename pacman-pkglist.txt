@@ -2,7 +2,6 @@ btop
 firefox
 flatpak
 git
-htop
 intel-ucode
 lazygit
 lsd
