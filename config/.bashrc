@@ -2,8 +2,9 @@
 # ~/.bashrc
 #
 
-export EDITOR=vim
-export SYSTEMD_EDITOR=vim
+export EDITOR=nvim
+export SYSTEMD_EDITOR=nvim
+export SUDO_EDITR=nvim
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
