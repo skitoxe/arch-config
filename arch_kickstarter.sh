@@ -13,6 +13,5 @@ sudo pacman -Qttdq | sudo pacman -Rns -
 sudo systemctl enable --now paccache.timer
 yay -Scc 
 sudo reflector --latest 200 --sort rate --save /etc/pacman.d/mirrorlist
-#chsh -s $(which zsh)
 fc-cache -f -v
-./cfg_dotfiles_kickstarter.sh
+stow dotfiles/

@@ -68,7 +68,7 @@ disabled = true
 
 # Prompt: param 2 └─
 [character]
-success_symbol = " [╰─λ](dimmed green)"
+success_symbol = " [╰─󰣇](dimmed green)"
 error_symbol = " [×](bold red)"
 
 # SYMBOLS
