@@ -1,7 +1,4 @@
 
-# Clone
-`git clone git@github.com:skitoxe/neovim.git` to your `~/.config/nvim` directory.
-
 # Dependencies that need to be installed first:
 neovim -> Fairly obvious.  
 ripgrep ->  required for search and fuzzy search.  
