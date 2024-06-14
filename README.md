@@ -1,6 +1,6 @@
-- `git clone https://github.com/skitoxe/Arch-config.git`
+- `git clone https://github.com/skitoxe/arch-config.git`
 
- - `cd Arch-config`
+ - `cd arch-config`
 
 - Read arch_kickstarter.sh script
 - Remove any packages you don't want in pacman-pkglist.txt and yay-pkglist.txt.

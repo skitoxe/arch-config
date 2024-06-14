@@ -23,6 +23,7 @@ spectacle
 starship
 steam
 stow
+tmux
 vim
 wget
 xclip
