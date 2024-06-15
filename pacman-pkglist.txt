@@ -24,6 +24,8 @@ starship
 steam
 stow
 tmux
+unzip
 vim
 wget
 xclip
+zip
