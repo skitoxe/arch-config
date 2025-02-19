@@ -1,7 +1,8 @@
 #
 # ~/.bashrc
 #
-
+export HISTFILESIZE=
+export HISTSIZE=
 export EDITOR=nvim
 export SYSTEMD_EDITOR=nvim
 export SUDO_EDITR=nvim
