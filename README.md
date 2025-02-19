@@ -1,4 +1,4 @@
-- `git clone  git@github.com:skitoxe/arch-config.git`
+- `git clone git@github.com:skitoxe/arch-config.git`
 
  - `cd arch-config`
 
