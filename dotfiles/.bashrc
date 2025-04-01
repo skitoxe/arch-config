@@ -25,7 +25,7 @@ eval "$(starship init bash)"
 function cheat() {
 curl cheat.sh/$1
 }
-
+#
 #Function för paste.rs
 function pasters() {
 local file=${1:-/dev/stdin}
