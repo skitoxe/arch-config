@@ -16,7 +16,7 @@ alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 PS1='[\u@\h \W]\$ '
 #export LC_ALL=sv_SE.UTF-8
-export LC_ALL=en_US.UTF-8
+#export LC_ALL=en_US.UTF-8
 eval "$(starship init bash)"
 
 #Mina functions
@@ -25,7 +25,6 @@ eval "$(starship init bash)"
 function cheat() {
 curl cheat.sh/$1
 }
-export -f cheat
 
 #Function för paste.rs
 function pasters() {
